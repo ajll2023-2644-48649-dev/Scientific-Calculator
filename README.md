@@ -28,7 +28,7 @@ Try the app live: [https://angela-calculator.netlify.app](https://angela-sciecal
 Clone the repo and run locally:
 
 ```bash
-git clone https://github.com/YourUsername/calculator-app.git
+git clone https://github.com/ajll2023-2644-48649-dev/Scientific-Calculator.git
 cd calculator-app
 npm install
 npm start
