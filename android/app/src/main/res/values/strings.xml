@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="title_activity_main">CalculatorApp</string>
+    <string name="package_name">com.example.calculatorapp</string>
+    <string name="custom_url_scheme">com.example.calculatorapp</string>
+</resources>
